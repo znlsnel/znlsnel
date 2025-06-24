@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 헤더 섹션 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HELLO+WORLD+🎮)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,+World!+🎮)
 
 <br>
 
